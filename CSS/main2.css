@@ -1,0 +1,46 @@
+header{
+  height:100px;
+  padding:20px;
+  background-color:#0000CD;
+  margin:10 auto;
+}
+
+nav{
+  height:50px;
+  padding:10px;
+  background-color:#32CD32;
+  margin:10 auto;
+}
+aside{
+  padding:2%;
+  height:300px;
+  width:14%;
+  background-color:#FF0000;
+  margin:10 auto;
+  float:left;
+}
+main{
+  height:300px;
+  width:60%;
+  padding:2%;
+  background-color:#FFFF00;
+  margin:10 auto;
+  float:left;
+}
+
+footer{
+  height:50px;
+  padding:10px;
+  background-color:#FF4500;
+  margin:10 auto;
+  clear:both;
+  
+  
+}
+span{
+  color:black;
+  font-family:verdana;
+  font-size:23px;
+  font-style:italic;
+  text-transform:capitalize;
+}
